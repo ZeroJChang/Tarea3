@@ -1,0 +1,4 @@
+﻿  Tarea3___DeLeonChang___1170419.cpp
+C:\Users\ZeroJChang\source\repos\Tarea3___DeLeonChang___1170419\Tarea3___DeLeonChang___1170419\Tarea3___DeLeonChang___1170419.cpp(23,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Tarea3___DeLeonChang___1170419.vcxproj -> C:\Users\ZeroJChang\source\repos\Tarea3___DeLeonChang___1170419\Debug\Tarea3___DeLeonChang___1170419.exe
